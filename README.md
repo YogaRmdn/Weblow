@@ -63,7 +63,7 @@ python manage.py migrate
 python seed.py
 
 # Start the development server
-python manage.py runserver
+python manage.py runserver or ./run.sh
 ```
 
 The application will be available at **http://127.0.0.1:8000**.
